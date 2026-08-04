@@ -1,3 +1,14 @@
+---
+lab:
+  title: 'Lab 05: Microsoft Defender — AI Agent Inventory and Threat Hunting'
+  description: In this lab, MOD Administrator will enable Defender preview features, activate the Copilot Studio AI agent inventory, and connect it to Power Platform. Patti Fernandes will then explore the AI agent inventory, investigate Zava agent configurations, and run Advanced Hunting KQL queries to identify potential security risks across the Zava agent estate.
+  duration: 60 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Microsoft Defender
+---
+
 # Lab 05: Microsoft Defender — AI Agent Inventory and Threat Hunting
 
 ## Introduction
