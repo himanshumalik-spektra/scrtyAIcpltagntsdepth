@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Lab 01: Agent Discovery and Registry Management'
+  description: In this lab, you explored the Agent 365 Overview dashboard and reviewed key governance metrics for the Zava tenant. You inspected all three Zava agents in the Agent Registry, reviewing their metadata, host products, and knowledge sources. You approved the Zava IT Support Agent submission, published the Zava HR Assistant through Teams Admin Center, then blocked and unblocked the Zava HR Assistant to verify that lifecycle controls function correctly. You exported the agent inventory to a CSV file to confirm audit trail capability, and used the ownerless agent filter to check for governance gaps in agent ownership.
+  duration: 20 minutes
+  level: 300
+  islab: true
+---
+
 # Lab 01: Agent Discovery and Registry Management
 
 ## Introduction

@@ -1,3 +1,16 @@
+---
+lab:
+  title: 'Lab 04: Microsoft Purview — Sensitivity Labels and DLP for Copilot'
+  description: In this lab, MOD Administrator will enable sensitivity label support for SharePoint and OneDrive, build Zava's label taxonomy using a label group and child labels, configure auto-labelling for financial data, publish labels to users, and create a DLP policy that prevents Microsoft 365 Copilot from processing labelled content. Adele Vance will test whether Copilot is blocked from surfacing labelled content. Patti Fernandes will verify the audit trail.
+  duration: 30 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft 365
+    - Microsoft 365 Copilot
+    - Microsoft Purview
+---
+
 # Lab 04: Microsoft Purview — Sensitivity Labels and DLP for Copilot
 
 ## Introduction

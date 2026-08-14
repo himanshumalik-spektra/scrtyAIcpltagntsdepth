@@ -1,3 +1,14 @@
+---
+lab:
+  title: 'Lab 02: Entra Agent Identity Configuration and Monitoring'
+  description: In this lab, you located all three Zava agent identities in the Microsoft Entra admin center using the Agent ID left navigation entry. You reviewed the Zava Finance Agent identity overview, confirming its Active status, Blueprint ID, Object ID, and the current absence of assigned owners. You assigned Patti Fernandes as owner of the Zava Finance Agent identity to establish accountability within the Entra governance model. You reviewed the agent identity's current permissions and Entra roles, confirming zero standing access as expected in a least-privilege deployment.
+  duration: 10 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Microsoft Entra
+---
+
 # Lab 02: Entra Agent Identity Configuration and Monitoring
 
 ## Introduction

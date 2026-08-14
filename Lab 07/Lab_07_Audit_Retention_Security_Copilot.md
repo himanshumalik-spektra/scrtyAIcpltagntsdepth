@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Lab 07: Purview Audit, Retention, and Security Copilot'
+  description: In this lab, Adele Vance generates targeted agent interaction signals to populate the audit log. Patti Fernandes investigates those interactions using Purview Audit, searching for CopilotInteraction and Copilot Studio agent management events. MOD Administrator creates a retention policy that governs the lifecycle of all Copilot and agent interaction data. Patti then uses Security Copilot — both embedded in Purview and in the standalone portal — to summarise DLP alerts and query the organisation's AI security posture.
+  duration: 30 minutes
+  level: 100
+  islab: true
+---
+
 # Lab 07: Purview Audit, Retention, and Security Copilot
 
 ## Introduction

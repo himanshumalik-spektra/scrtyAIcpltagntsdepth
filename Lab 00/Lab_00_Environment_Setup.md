@@ -1,3 +1,17 @@
+---
+lab:
+  title: 'Lab 00: Environment Setup — Zava Corporation AI Agent Infrastructure'
+  description: Before any security configuration can begin, the Zava Corporation environment must be fully provisioned. In this lab, MOD Administrator will configure the Microsoft Entra ID tenant, enable Microsoft Copilot Studio, register the security group required for agent authoring, create the three AI agents that serve as governance targets throughout the entire course, connect each agent to its designated SharePoint knowledge source, and upload the sample business documents that simulate Zava's live data environment.
+  duration: 30 minutes
+  level: 300
+  islab: true
+  primarytopics:
+    - Microsoft Copilot
+    - Microsoft Entra
+    - Microsoft Entra ID
+    - Microsoft Copilot Studio
+---
+
 # Lab 00: Environment Setup — Zava Corporation AI Agent Infrastructure
 
 ## Introduction

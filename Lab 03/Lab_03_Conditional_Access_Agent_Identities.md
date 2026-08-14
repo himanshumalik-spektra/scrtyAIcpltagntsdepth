@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Lab 03: Conditional Access for Zava Agent Identities'
+  description: In this lab, you created a custom security attribute set named AgentAttributes with an AgentApprovalStatus attribute containing five predefined governance values. You assigned the HRApproved approval status to the Zava HR Assistant, establishing a structured agent classification model in Entra ID. You created the Zava - Block Unapproved Agent Identities Conditional Access policy targeting all agent identities and excluding those with approved attribute values. You used the What If tool in Report-only mode to validate that an approved agent is correctly excluded from the block policy, then switched the policy to enforcement mode. You created the Zava - Block High Risk Agent Identities policy using Entra ID Protection agent risk signals and set it to Report-only pending risk signal generation. Patti Fernandes invoked the Zava HR Assistant to generate sign-in events, which you then investigated in the Service principal sign-in logs filtered by agent type. Zava's agent identities are now governed by Zero Trust Conditional Access controls.
+  duration: 30 minutes
+  level: 200
+  islab: true
+---
+
 # Lab 03: Conditional Access for Zava Agent Identities
 
 ## Introduction

@@ -1,3 +1,12 @@
+---
+lab:
+  title: 'Lab 06: DSPM — Oversharing Assessment and Remediation'
+  description: MOD Administrator will launch a custom data risk assessment against the Zava HR and Finance SharePoint sites, activate DSPM one-click policies, and use the Objectives dashboard to drive remediation. Adele Vance will generate realistic Copilot interaction signals referencing sensitive labelled files. Patti Fernandes will investigate the AI activities in DSPM Activity Explorer and review the oversharing findings from the assessment.
+  duration: 25 minutes
+  level: 300
+  islab: true
+---
+
 # Lab 06: DSPM — Oversharing Assessment and Remediation
 
 ## Introduction
